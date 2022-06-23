@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm thinnaphat</h1>
+<h1 align="center">Hi 👋, I'm thinnaphat.k</h1>
 <h3 align="center">Im from Thailand</h3>
 
-- 🔭 I’m currently working on **study**
+- 🔭 I’m currently on **study**
 
 - 🌱 I’m currently learning **Computer Programing**
 
